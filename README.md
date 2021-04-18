@@ -1,10 +1,15 @@
-##  Eu sou o Matheus Diniz 🤙[Matheus!](https://github.com/matheusjp201)
+##  Eu sou o [Matheus!](https://github.com/matheusjp201) 🤙
+
 - 📍 From João Pessoa - PB 🇧🇷
- <div>
-  <a href="https://github.com/matheusjp201">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjp201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjp201&layout=compact&langs_count=8&theme=tokyonight"/>
-<div>
+
+ <a href="https://github.com/matheusjp201">
+<a href="https://github.com/matheusjp201/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=matheusjp201&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/matheusjp201/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=matheusjp201&layout=compact&theme=material-palenight" />
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
