@@ -7,7 +7,7 @@
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Matheus-astro" src="https://i.pinimg.com/originals/bb/95/bd/bb95bd853942cc8b77e49e7a08fc82f4.gif">
+  <img align="right" alt="Matheus-astro" src="https://i.pinimg.com/564x/d9/89/da/d989dad881b3c5e9fd5efb64d6a90639.jpg">
   
  
 </div>
