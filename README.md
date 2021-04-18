@@ -3,13 +3,14 @@
 - 📍 From João Pessoa - PB 🇧🇷
 
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Matheus-astro" src="bart.jpg">
   
- 
+ <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=matheusjp201&show_icons=true&theme=radical
 </div>
 
 Reach me out 😄😄
