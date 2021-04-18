@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📍 From João Pessoa - PB 🇧🇷
+- 📍 From João Pessoa - PB U+1F1F7
 
 
 
