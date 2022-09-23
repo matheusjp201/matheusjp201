@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/matheusjp201](https://github.com/matheusjp201)
-
 - 💬 Ask me about **Angular and .Net**
 
 - 📫 How to reach me **matheusjp201fjv@gmail.com**
