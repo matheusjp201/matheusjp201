@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project-app-fitness](https://github.com/matheusjp201/Project-app-fitness)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Angular and .Net**
 
