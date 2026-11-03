@@ -1,6 +1,6 @@
 # Matheus Diniz
 
-Senior Front-end Engineer based in João Pessoa, PB, Brazil. About six years with Vue, Angular, and TypeScript, and some .NET/C#.
+Senior Software Engineer based in João Pessoa, PB, Brazil. About six years with Vue, Angular, and TypeScript, and some .NET/C#.
 
 **Open to remote roles.**
 
